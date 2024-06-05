@@ -22,6 +22,10 @@
 
 - Trong môi trường development, Front-end chạy ở port 3000 (http://localhost:3000), Back-end chạy ở port 5000 (http://localhost:5000)
 
+- Comment: [HÀNH ĐỘNG (viết in hoa)] - Miêu tả cụ thể (ví dụ: [CREATE] - create an account)
+- Commit git cũng tương tự Comment. Các hành động có thể là CREATE, UPDATE, DELETE,...
+- Commit git hàng ngày hoặc 2 ngày / lần
+
 
 # Thiết kế giao diện
 - Figma (FE)

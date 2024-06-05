@@ -35,8 +35,6 @@
 - API + Db (BE)
 - Front-end (BE + FE)
 
-- Devops (BE)
-
 
 # Công nghệ sử dụng (Lib, Framkework)
 - FE: Vite + React + Typescript + Tailwind + daisyUI (thư viện component Tailwind) + axios
